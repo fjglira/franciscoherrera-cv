@@ -19,14 +19,14 @@ Kubernetes, Docker enthusiast.
 
 ## Experience
 
-`Mar 2020-now`
+`2020-now`
 __Cloud Operation Engineer at NEC Ibérica__, Madrid. Spain.
 
 - Support and resolution of incidents of the cloud solutions at several clients.
 - Responsible of the maintenance and deployment of the service and microservices for internal and external clients.
 - Skills: Rancher, Kubernetes, Docker, Python, C#, Linux, VM, Helm, Jenkins, Jmeter, Postman, git, TFS, Selenium.
 
-`Dec 2015-Mar 2020`
+`2015-2020`
 __QA Automation Engineer at NEC Ibérica__, Madrid. Spain.
 
 - Support activities of Quality Assurance solutions for Cloud services based on Docker and Kubernetes.
